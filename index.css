@@ -1,0 +1,20 @@
+.navImg {
+  width: 10px;
+  height: 10px;
+  padding-top: 10px;
+}
+
+.img_pad {
+  padding-bottom: 40px;
+}
+
+/* .nav_list {
+  padding-left: 150px;
+} */
+/* .nav-item {
+  padding-left: 150px;
+} */
+.navbar-nav {
+  padding-left: 350
+  px;
+}
